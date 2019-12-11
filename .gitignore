@@ -1,0 +1,9 @@
+.stack-work/
+*~
+/*.iml
+*.hi
+*.o
+/result
+/dist-newstyle/
+/ghc-mod*
+/TAGS
