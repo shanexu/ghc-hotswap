@@ -3,7 +3,7 @@
 /*.iml
 *.hi
 *.o
-/result
+/result*
 /dist-newstyle/
 /ghc-mod*
 /TAGS
