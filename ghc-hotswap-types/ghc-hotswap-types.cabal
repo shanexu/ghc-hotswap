@@ -21,7 +21,7 @@ library
   exposed-modules:     Types
   -- other-modules:
   -- other-extensions:
-  build-depends:       base >=4.12 && <4.13
+  build-depends:       base
                      , deepseq
                      , text
   hs-source-dirs:      src
@@ -32,4 +32,4 @@ test-suite ghc-hotswap-types-test
   type:                exitcode-stdio-1.0
   hs-source-dirs:      test
   main-is:             MyLibTest.hs
-  build-depends:       base >=4.12 && <4.13
+  build-depends:       base
