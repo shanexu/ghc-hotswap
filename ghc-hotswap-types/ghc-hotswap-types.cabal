@@ -27,9 +27,3 @@ library
   hs-source-dirs:      src
   default-language:    Haskell2010
 
-test-suite ghc-hotswap-types-test
-  default-language:    Haskell2010
-  type:                exitcode-stdio-1.0
-  hs-source-dirs:      test
-  main-is:             MyLibTest.hs
-  build-depends:       base
